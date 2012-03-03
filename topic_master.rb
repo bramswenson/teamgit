@@ -1,0 +1,3 @@
+class TopicMaster
+
+end

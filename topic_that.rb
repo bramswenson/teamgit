@@ -1,0 +1,2 @@
+class ThisWeek
+end
